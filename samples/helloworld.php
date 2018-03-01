@@ -12,6 +12,7 @@
     <?php print "Hello World3";?> <br>
     <?php print("Hello World4");?> <br>
     <?php print ("Hello World5");?> <br>
+    <?php echo print("Hello World5.1");?> <br>
 
     <?php echo "Hello" . " World6";?> <br>
     <?php echo 2 + 3;?>
